@@ -1,5 +1,10 @@
 # LAMMPS Trajectory VR Viewer
 
+![Python](https://img.shields.io/badge/python-3.x-blue.svg)
+![OVITO](https://img.shields.io/badge/OVITO-required-green.svg)
+![WebXR](https://img.shields.io/badge/WebXR-enabled-orange.svg)
+![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)
+
 A high-fidelity 3D visualization tool for molecular dynamics simulations with full WebXR/VR support. Export any LAMMPS trajectory file from OVITO and explore your simulation data in an immersive virtual reality environment.
 
 ## Overview
